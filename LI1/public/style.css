@@ -1,0 +1,33 @@
+.sa
+{
+    width: 150px;
+    height: 100px;
+    background: blue;
+    margin: 300px;
+    margin-right: 200px;
+}
+.sb
+{
+    width: 150px;
+    height: 100px;
+    background: blue;
+    margin-top: -400px;
+    margin-left: 460px;
+}
+
+.sc
+{
+    width: 150px;
+    height: 100px;
+    background: green;
+    margin-left: 530px;
+    margin-top: -210px;
+}
+.sd
+{
+    width: 150px;
+    height: 100px;
+    background: green;
+    margin-left: 620px;
+    margin-top: 95px;
+}
